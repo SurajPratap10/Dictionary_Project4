@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+<p align="center">
+  <img src = "DICTIONARY-APP-MOCKUP.png">
+</p>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
