@@ -1,18 +1,23 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# WordHive
+"Elevate your language game with our all-in-one dictionary app."
 
 <p align="center">
   <img src = "DICTIONARY-APP-MOCKUP.png">
 </p>
 
+# Live Site: https://dictionary-project4.vercel.app/
+<br>
 # Technologies used:
 1) React JS
 2) Axios API
 3) Tailwind CSS
 4) Vanilla JS
 5) Vercel
+
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
