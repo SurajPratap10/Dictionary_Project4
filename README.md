@@ -5,7 +5,7 @@
   <img src = "DICTIONARY-APP-MOCKUP.png">
 </p>
 
-# Live Site: https://dictionary-project4.vercel.app/
+ Live Site: https://dictionary-project4.vercel.app/ 
 <br>
 # Technologies used:
 1) React JS
