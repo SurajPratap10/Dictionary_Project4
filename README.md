@@ -7,10 +7,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <img src = "DICTIONARY-APP-MOCKUP.png">
 </p>
 
-Text-Stacks used:
+# Technologies used:
 1) React JS
 2) Axios API
 3) Tailwind CSS
+4) Vanilla JS
+5) Vercel
 
 ## Available Scripts
 
